@@ -1,0 +1,104 @@
+﻿{
+  "film": [
+    {
+      "filmId": "M1",
+      "title": "Parasite",
+      "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "rilis": "11/01/2019",
+      "genre": "Comedy, Thriller, Drama",
+      "director": "Bong Joon-ho",
+      "screenplay": "Han Jin-won",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PSifrJfKl8sy9tBOd5Vcg0jbN6.jpg"
+    },
+    {
+      "filmId": "M2",
+      "title": "Zack Snyder's Justice League",
+      "description": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+      "rilis": "03/18/2021",
+      "genre": "Action, Adventure, Fantasy, Science Fiction",
+      "director": "Zack Snyder",
+      "screenplay": "Chris Terrio",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
+    },
+    {
+      "filmId": "M3",
+      "title": "Aquaman",
+      "description": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "rilis": "12/21/2018",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "James Wan",
+      "screenplay": "Will Beall, David Leslie Johns-McGoldrick",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg"
+    },
+    {
+      "filmId": "M4",
+      "title": "Now You See Me 2",
+      "description": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+      "rilis": "06/10/2016",
+      "genre": "Thriller, Action, Comedy",
+      "director": "Jon M. Chu",
+      "screenplay": "Ed Solomon",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7Q9BAqpbPHSeo6ZDYRpFGpGUxn.jpg"
+    },
+    {
+      "filmId": "M5",
+      "title": "Mulan",
+      "description": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+      "rilis": "09/04/2020",
+      "genre": "Adventure, Fantasy",
+      "director": "Niki Caro",
+      "screenplay": "Elizabeth Martin, Rick Jaffa , Lauren Hynek, Amanda Silver",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    },
+    {
+      "filmId": "M6",
+      "title": "Avengers: Endgame",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "rilis": "04/24/2019",
+      "genre": "Adventure, Science Fiction, Action",
+      "director": "Joe Russo, Anthony Russo",
+      "screenplay": "Christopher Markus, Stephen McFeely",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+    },
+    {
+      "filmId": "M7",
+      "title": "Soul",
+      "description": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "rilis": "12/25/2020",
+      "genre": "Family, Animation, Comedy, Drama, Musi,Fantasy",
+      "director": "Kemp Powers, Pete Docter",
+      "screenplay": "Mike Jones",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg"
+    },
+    {
+      "filmId": "M8",
+      "title": "Bohemian Rhapsody",
+      "description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "rilis": "11/02/2018",
+      "genre": "Music, Drama, History",
+      "director": "Bryan Singer",
+      "screenplay": "Anthony McCarten",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+    },
+    {
+      "filmId": "M9",
+      "title": "Coco",
+      "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "rilis": "11/22/2017",
+      "genre": "Family, Animation, Fantasy, Music, Comedy, Adventure",
+      "director": "Lee Unkrich",
+      "screenplay": "Adrian Molina, Matthew Aldrich",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yAvisTUocxmXQZQJZ521dL9a36p.jpg"
+    },
+    {
+      "filmId": "M10",
+      "title": "Tom & Jerry",
+      "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+      "rilis": "03/10/2021",
+      "genre": "Comedy, Family, Animation",
+      "director": "Tim Story",
+      "screenplay": "-",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg"
+    }
+  ]
+}
